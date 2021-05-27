@@ -1,7 +1,7 @@
 ![What a fantastic night!](cover4.jpg)
 
 # Hi there 👋
-  My name is as what you can see from the left: Rionne Angelo Ugale. I am aspiring to become a computer engineer, though not really sure what specific field to take as of writing. Although my current skills bring me more closer to software programming, I know I can also excel in hardware programming and my gaze tends to point over there more. Besides this degree, I alwo want to take take other several undergraduate courses, not to mention that I will also take graduate courses, such as the following:
+  My name is as what you can see from the left: Rionne Angelo Ugale. I am aspiring to become a computer engineer, though not really sure what specific field to take as of writing. Although my current skills bring me more closer to software programming, I know I can also excel in hardware programming and my gaze tends to point over there more. Besides this degree, I also want to take take other several undergraduate courses, not to mention that I will also take graduate courses, such as the following:
   - BA (and MA, if possible) in Digital Film (target school: University of the Philippines - Diliman)
   - MS (and PhD, if possible) in CPE (target: University of the Philippines - Diliman and/or Massachusetts Institute of Technology)
   - BS in Computer Science
