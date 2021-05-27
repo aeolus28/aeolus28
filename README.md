@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+- 🏫 I'm currently a computer engineering student at **Mapua University**.
+- 🔭 I’m currently working on my own version of our entry in the previous 2020 Blue Hacks Hackathon organized by Compsat.
+- 🌱 I’m currently learning Flutter for mobile development. 
+- ⚡ Fun fact: It is pronounced as **"ree-yon"** and not "ra-yon"
 <!--
 **aeolus28/aeolus28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
